@@ -56,7 +56,7 @@
         <mxCell id="Jyz3VJ2_EEgVZYQiyKff-46" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Region Proposal Network&lt;/font&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;&amp;nbsp;Generates Proposals Across Feature Maps&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-490" y="320" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jyz3VJ2_EEgVZYQiyKff-66" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Region of Interest Align&lt;/font&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;&amp;nbsp;Proposals to Feature Maps&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Jyz3VJ2_EEgVZYQiyKff-66" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Region of Interest Align&lt;/font&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Crops Feature Maps to Proposals&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9BBlNsFFEz5Q6MiwBYez-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=50;exitDy=30;exitPerimeter=0;" edge="1" parent="1" source="Jyz3VJ2_EEgVZYQiyKff-78">
@@ -76,10 +76,10 @@
           <mxGeometry x="-130" y="255" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Jyz3VJ2_EEgVZYQiyKff-85" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Mask Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="355" width="90" height="30" as="geometry" />
+          <mxGeometry x="-160" y="335" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jyz3VJ2_EEgVZYQiyKff-86" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Box Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="-160" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jyz3VJ2_EEgVZYQiyKff-91" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Computer+Modern&quot; face=&quot;Computer Modern&quot;&gt;Bounding Box and Classification Proposal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="185" width="60" height="30" as="geometry" />
